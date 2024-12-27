@@ -1,0 +1,13 @@
+@import '@fontsource-variable/nunito';
+@import 'tailwindcss/base';
+@import 'tailwindcss/components';
+@import 'tailwindcss/utilities';
+
+body {
+    font-family: 'Nunito Variable', sans-serif;
+    background-color: #353639;
+}
+
+pre {
+    font-family: 'Fira Code Variable', monospace;
+}
