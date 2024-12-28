@@ -48,7 +48,11 @@ It should update `src/lib/data.json` file depending on `../ffmpeg/build/configur
 - Fira Code font doesn't show up on my phone
 - Selecting and sliding selection of generated command line doesn't work on my phone but it works with changes codeblock
 - Doubleclicking on mobile sometimes when toggling headers or checkboxes selects text but I want to retain ability to select text if needed
+- Select text without clicking checkmark
 - Toggle for selecting multiple checkboxes by dragging finger
+- Fix buttons getting smaller when header is large
+- Searching for flags
+- Fill in changes from an existing command line
 - Even more FFmpeg tailored compile options with cleaner wrapping around decoders, encoders, demuxers, muxers, etc.
 
 ## Other configuration inconsistencies
